@@ -59,4 +59,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 
-[GPLv3](https://github.com/itsyourap/ArgumentCatcher/blob/master/LICENSE)
+[GPLv3](https://github.com/itsyourap/ArgumentCatcher/blob/main/LICENSE)
