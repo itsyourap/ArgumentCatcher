@@ -23,7 +23,7 @@ You will need [Java Development Kit (JDK)](https://en.wikipedia.org/wiki/Java_De
 ## Usage
 
 Here we will be
-solving [this example situation](https://github.com/itsyourap/ArgumentCatcher/blob/master/README.md#usage-scenario) with
+solving [this example situation](#usage-scenario) with
 the help of ArgumentCatcher.
 
 1. Rename ArgumentCatcher executable to ```Bar.exe``` and put it in place of the original ```Bar.exe```
