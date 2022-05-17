@@ -18,7 +18,9 @@ repository:
 
     git clone https://github.com/itsyourap/ArgumentCatcher.git
 
-You will need [Java Development Kit (JDK)](https://en.wikipedia.org/wiki/Java_Development_Kit) to build this project.
+You will need [Java Development Kit (JDK) 8+](https://en.wikipedia.org/wiki/Java_Development_Kit) to build this project and a working [Java Runtime Environment (JRE) 8+](https://en.wikipedia.org/wiki/Java_(software_platform)) to run this program.
+
+After building a JAR from the sources, you can use [Launch4j](http://launch4j.sourceforge.net/) to wrap the JAR into an executable. You can find an example of Launch4j configuration in [launch4j folder](https://github.com/itsyourap/ArgumentCatcher/tree/main/launch4j).
 
 ## Usage
 
